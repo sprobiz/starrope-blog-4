@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "filename": "us-dividend-growth.html",
+      "title": "The Ultimate Guide to US Dividend Growth Stocks in 2026: Compound Interest & Tax Optimization",
+      "description": "Build a compounding passive stream. Explore top-tier Dividend Aristocrats, payout stability scores, compound interest math, and tax-efficient strategies for global investors.",
+      "image_url": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=800&q=80",
+      "tag": "Global Stocks",
+      "date_display": "Jun 5, 2026",
+      "publish_date": "2026-06-05",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "bitcoin-halving-2026.html",
+      "title": "Bitcoin Long-Term Outlook After 2026 Halving: Price Predictions & Institutional Inflows",
+      "description": "Navigate the crypto supercycle. Analyze historical post-halving trends, ETF absorption velocity, institutional accumulation models, and risk management guidelines.",
+      "image_url": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=800&q=80",
+      "tag": "Cryptocurrency",
+      "date_display": "Jun 5, 2026",
+      "publish_date": "2026-06-05",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "passive-income-apps.html",
+      "title": "Top 5 Global Passive Income Apps to Earn USD & Crypto While You Sleep",
+      "description": "Discover verified tools to generate automated yields. Compare bandwidth sharing networks, micro-task aggregators, and automated crypto staking apps.",
+      "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80",
+      "tag": "Passive Income",
+      "date_display": "Jun 6, 2026",
+      "publish_date": "2026-06-06",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "global-bonds-yield.html",
+      "title": "How to Invest in Global Treasury Bonds: Hedging Inflation & Maximizing Yields",
+      "description": "Unpack macro finance strategies. Learn how bond yields respond to central bank interest rates, and how to hedge against inflation with global treasuries.",
+      "image_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80",
+      "tag": "Macro Finance",
+      "date_display": "Jun 7, 2026",
+      "publish_date": "2026-06-07",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "defi-yield-farming.html",
+      "title": "DeFi Yield Farming Guide for Beginners: High-APY Staking & Liquidity Pool Risk Management",
+      "description": "Maximize crypto yields safely. Learn how liquidity pools work, understand impermanent loss, and master advanced stablecoin staking strategies.",
+      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&w=800&q=80",
+      "tag": "Cryptocurrency",
+      "date_display": "Jun 8, 2026",
+      "publish_date": "2026-06-08",
+      "publish_time": "08:00"
+    }
+  ]
+}
