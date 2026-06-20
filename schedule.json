@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "ethereum-liquid-restaking-yield-guide.html",
+      "title": "Liquid Restaking in 2026: Maximizing Ethereum Yields with EigenLayer and LRTs",
+      "description": "Supercharge your Ethereum staking returns. Learn about Liquid Restaking Tokens (LRTs), EigenLayer restaking mechanics, risk management, and the best LRT protocols to use in 2026.",
+      "image_url": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?auto=format&fit=crop&w=800&q=80",
+      "tag": "Passive Income",
+      "date_display": "Jun 20, 2026 (12:30 PM)",
+      "publish_date": "2026-06-20",
+      "publish_time": "12:30"
+    },
+    {
       "filename": "crypto-staking-yield-farming-2026.html",
       "title": "The Smart Investor's Guide to Crypto Staking and Yield Farming in 2026",
       "description": "Discover secure and advanced yield-generation strategies in 2026. Compare Proof-of-Stake native staking, liquid staking derivatives, and automated market maker yield farming options.",
