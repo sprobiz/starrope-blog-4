@@ -87,77 +87,87 @@ def add_url_to_sitemap(filename, publish_date, sitemap_content):
     return sitemap_content.replace('</urlset>', new_url + '</urlset>')
 
 def main():
-    now = get_current_kst()
-    today = now.date()
-    current_hour = now.hour
+    import traceback
+    try:
+        now = get_current_kst()
+        today = now.date()
+        current_hour = now.hour
 
-    print(f"Current KST Time: {now.strftime('%Y-%m-%d %H:%M')}")
+        print(f"Current KST Time: {now.strftime('%Y-%m-%d %H:%M')}")
 
-    # Read schedule.json
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    project_root = os.path.dirname(script_dir)
+        # Read schedule.json
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        project_root = os.path.dirname(script_dir)
 
-    with open(os.path.join(project_root, 'schedule.json'), 'r', encoding='utf-8') as f:
-        schedule = json.load(f)
+        with open(os.path.join(project_root, 'schedule.json'), 'r', encoding='utf-8') as f:
+            schedule = json.load(f)
 
-    # Read index.html & sitemap.xml
-    index_path = os.path.join(project_root, 'index.html')
-    sitemap_path = os.path.join(project_root, 'sitemap.xml')
+        # Read index.html & sitemap.xml
+        index_path = os.path.join(project_root, 'index.html')
+        sitemap_path = os.path.join(project_root, 'sitemap.xml')
 
-    with open(index_path, 'r', encoding='utf-8') as f:
-        index_content = f.read()
+        with open(index_path, 'r', encoding='utf-8') as f:
+            index_content = f.read()
 
-    with open(sitemap_path, 'r', encoding='utf-8') as f:
-        sitemap_content = f.read()
+        with open(sitemap_path, 'r', encoding='utf-8') as f:
+            sitemap_content = f.read()
 
-    published_count = 0
+        published_count = 0
 
-    for post in schedule['posts']:
-        post_date_str = post['publish_date']
-        post_time = post['publish_time']
-        post_date = datetime.strptime(post_date_str, '%Y-%m-%d').date()
+        for post in schedule['posts']:
+            post_date_str = post['publish_date']
+            post_time = post['publish_time']
+            post_date = datetime.strptime(post_date_str, '%Y-%m-%d').date()
 
-        # Skip already published posts
-        if is_already_published(post['filename'], index_content):
-            continue
+            # Skip already published posts
+            if is_already_published(post['filename'], index_content):
+                continue
 
-        # Check publish criteria: past dates or today at/after the scheduled time
-        should_publish = False
+            # Check publish criteria: past dates or today at/after the scheduled time
+            should_publish = False
 
-        if post_date < today:
-            should_publish = True
-        elif post_date == today:
-            post_hour = int(post_time.split(':')[0])
-            if current_hour >= post_hour:
+            if post_date < today:
                 should_publish = True
+            elif post_date == today:
+                post_hour = int(post_time.split(':')[0])
+                if current_hour >= post_hour:
+                    should_publish = True
 
-        if should_publish:
-            filename = post['filename']
-            print(f"Publishing: {filename} ({post_date_str} {post_time})")
+            if should_publish:
+                filename = post['filename']
+                print(f"Publishing: {filename} ({post_date_str} {post_time})")
 
-            # Generate and insert card HTML
-            card_html = generate_card_html(post)
-            index_content = insert_card_to_index(card_html, index_content)
+                # Generate and insert card HTML
+                card_html = generate_card_html(post)
+                index_content = insert_card_to_index(card_html, index_content)
 
-            # Add to sitemap.xml
-            sitemap_content = add_url_to_sitemap(filename, post_date_str, sitemap_content)
+                # Add to sitemap.xml
+                sitemap_content = add_url_to_sitemap(filename, post_date_str, sitemap_content)
 
-            published_count += 1
+                published_count += 1
 
-    if published_count > 0:
-        print(f"\nSuccessfully published {published_count} posts!")
+        if published_count > 0:
+            print(f"\nSuccessfully published {published_count} posts!")
 
-        # Save index.html
-        with open(index_path, 'w', encoding='utf-8') as f:
-            f.write(index_content)
-        print("index.html updated successfully.")
+            # Save index.html
+            with open(index_path, 'w', encoding='utf-8') as f:
+                f.write(index_content)
+            print("index.html updated successfully.")
 
-        # Save sitemap.xml
-        with open(sitemap_path, 'w', encoding='utf-8') as f:
-            f.write(sitemap_content)
-        print("sitemap.xml updated successfully.")
-    else:
-        print("No posts to publish at this time.")
+            # Save sitemap.xml
+            with open(sitemap_path, 'w', encoding='utf-8') as f:
+                f.write(sitemap_content)
+            print("sitemap.xml updated successfully.")
+        else:
+            print("No posts to publish at this time.")
+    except Exception as e:
+        error_msg = traceback.format_exc()
+        print(f"ERROR: {error_msg}")
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        project_root = os.path.dirname(script_dir)
+        with open(os.path.join(project_root, 'error_log.txt'), 'w', encoding='utf-8') as f:
+            f.write(error_msg)
+        print("Wrote error log to error_log.txt")
 
 if __name__ == '__main__':
     main()
