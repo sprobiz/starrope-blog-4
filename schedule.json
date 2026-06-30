@@ -669,6 +669,16 @@
       "date_display": "Jul 04, 2026 (03:00 PM)",
       "publish_date": "2026-07-04",
       "publish_time": "15:00"
+    },
+    {
+      "filename": "crypto-market-cycles-onchain-metrics.html",
+      "title": "Navigating Crypto Market Cycles: How to Spot Tops and Bottoms Using On-Chain Metrics",
+      "description": "Learn how to navigate crypto market cycles using key on-chain indicators. Analyze MVRV Z-Score, Net Unrealized Profit/Loss (NUPL), exchange flows, and long-term holder behavior to optimize your entry and exit points.",
+      "image_url": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=800&q=80",
+      "tag": "Cryptocurrency",
+      "date_display": "Jul 01, 2026 (07:30 AM)",
+      "publish_date": "2026-07-01",
+      "publish_time": "07:30"
     }
   ]
 }
