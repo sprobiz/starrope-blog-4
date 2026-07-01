@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "understanding-real-yield-defi.html",
+      "title": "Understanding Real Yield in DeFi: Distinguishing Sustainable Revenue from Inflationary Tokenomics",
+      "description": "DeFi yield strategies are evolving. Learn how to calculate real yield, differentiate protocol revenue from inflationary emissions, and evaluate sustainable yield protocols in 2026.",
+      "image_url": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=800&q=80",
+      "tag": "Cryptocurrency",
+      "date_display": "Jul 2, 2026 (08:00 AM)",
+      "publish_date": "2026-07-02",
+      "publish_time": "08:00"
+    },
+    {
       "filename": "ethereum-liquid-restaking-yield-guide.html",
       "title": "Liquid Restaking in 2026: Maximizing Ethereum Yields with EigenLayer and LRTs",
       "description": "Supercharge your Ethereum staking returns. Learn about Liquid Restaking Tokens (LRTs), EigenLayer restaking mechanics, risk management, and the best LRT protocols to use in 2026.",
