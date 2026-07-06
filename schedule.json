@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "defi-lending-yields-risk-management.html",
+      "title": "DeFi Lending Protocols: Maximizing Yields and Managing Risk on Aave and Compound",
+      "description": "Master decentralized lending. Compare Aave and Compound, learn how interest rate models function, maximize passive yields, and manage liquidation risk in 2026.",
+      "image_url": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=800&q=80",
+      "tag": "Cryptocurrency",
+      "date_display": "Jul 06, 2026 (03:00 PM)",
+      "publish_date": "2026-07-06",
+      "publish_time": "15:00"
+    },
+    {
       "filename": "depin-networks-utility-tokenomics.html",
       "title": "The Rise of DePIN: How Decentralized Physical Infrastructure Networks Shape Web3 Utility in 2026",
       "description": "Explore the explosive growth of Decentralized Physical Infrastructure Networks (DePIN). Learn how token incentives drive real-world deployment of compute, storage, wireless, and sensor networks in 2026.",
