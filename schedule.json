@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "ai-agents-web3-yield-economy.html",
+      "title": "The Rise of AI Agents in Web3: How Autonomous Agents Trade and Generate Yield in 2026",
+      "description": "Explore the intersection of AI and Web3. Learn how autonomous AI agents execute smart contracts, trade assets, optimize yield portfolios, and reshape DeFi in 2026.",
+      "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80",
+      "tag": "Cryptocurrency",
+      "date_display": "Jul 09, 2026 (03:00 PM)",
+      "publish_date": "2026-07-09",
+      "publish_time": "15:00"
+    },
+    {
       "filename": "defi-lending-yields-risk-management.html",
       "title": "DeFi Lending Protocols: Maximizing Yields and Managing Risk on Aave and Compound",
       "description": "Master decentralized lending. Compare Aave and Compound, learn how interest rate models function, maximize passive yields, and manage liquidation risk in 2026.",
