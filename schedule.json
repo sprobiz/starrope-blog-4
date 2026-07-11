@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "account-abstraction-erc4337-web3-ux.html",
+      "title": "Account Abstraction (ERC-4337): Revolutionizing Web3 UX and Wallet Security",
+      "description": "Understand how ERC-4337 and account abstraction transform the Web3 landscape by enabling smart contract wallets, social recovery, gas abstraction, and batched transactions in 2026.",
+      "image_url": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "tag": "Cryptocurrency",
+      "date_display": "Jul 11, 2026",
+      "publish_date": "2026-07-11",
+      "publish_time": "08:00"
+    },
+    {
       "filename": "btcfi-bitcoin-layer2-yields-2026.html",
       "title": "BTCFi in 2026: How Bitcoin Layer 2s and Staking are Unlocking Billion-Dollar Yields",
       "description": "Unlock yields on your Bitcoin. Explore the growth of BTCFi, compare leading Bitcoin Layer 2 networks like Stacks and Merlin, and learn about secure Bitcoin staking protocols like Babylon in 2026.",
