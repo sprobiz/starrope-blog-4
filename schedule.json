@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "modular-blockchains-vs-monolithic-scalability.html",
+      "title": "Modular Blockchains vs. Monolithic Architectures: Celestia, Solana, and the Scalability Debate",
+      "description": "Explore the architectural war of Web3. Compare modular blockchains (Celestia, Ethereum L2s) with monolithic systems (Solana) regarding scale, security, and cost.",
+      "image_url": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "tag": "Cryptocurrency",
+      "date_display": "Jul 13, 2026 (07:00 AM)",
+      "publish_date": "2026-07-13",
+      "publish_time": "07:00"
+    },
+    {
       "filename": "solana-pay-stablecoin-commerce.html",
       "title": "The Rise of Solana Pay and Stablecoin Commerce: Bypassing Credit Card Fees in 2026",
       "description": "Discover how merchants and e-commerce platforms are adopting Solana Pay and stablecoins (USDC/EURC) in 2026 to eliminate credit card transaction fees, get instant settlement, and reach a global customer base.",
