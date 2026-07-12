@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "solana-pay-stablecoin-commerce.html",
+      "title": "The Rise of Solana Pay and Stablecoin Commerce: Bypassing Credit Card Fees in 2026",
+      "description": "Discover how merchants and e-commerce platforms are adopting Solana Pay and stablecoins (USDC/EURC) in 2026 to eliminate credit card transaction fees, get instant settlement, and reach a global customer base.",
+      "image_url": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?auto=format&fit=crop&w=800&q=80",
+      "tag": "Cryptocurrency",
+      "date_display": "Jul 12, 2026",
+      "publish_date": "2026-07-12",
+      "publish_time": "08:00"
+    },
+    {
       "filename": "account-abstraction-erc4337-web3-ux.html",
       "title": "Account Abstraction (ERC-4337): Revolutionizing Web3 UX and Wallet Security",
       "description": "Understand how ERC-4337 and account abstraction transform the Web3 landscape by enabling smart contract wallets, social recovery, gas abstraction, and batched transactions in 2026.",
