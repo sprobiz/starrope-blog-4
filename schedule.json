@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "solana-restaking-solayer-jito-guide.html",
+      "title": "Solana Restaking in 2026: Solayer, Jito, and the Expansion of Shared Security on Solana",
+      "description": "Unlock the next level of Solana yield. Explore the mechanics of Solana restaking protocols like Solayer, Jito Restaking, and Picasso, their architecture, risks, and how to participate.",
+      "image_url": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "tag": "Cryptocurrency",
+      "date_display": "Jul 15, 2026",
+      "publish_date": "2026-07-15",
+      "publish_time": "22:00"
+    },
+    {
       "filename": "modular-blockchains-vs-monolithic-scalability.html",
       "title": "Modular Blockchains vs. Monolithic Architectures: Celestia, Solana, and the Scalability Debate",
       "description": "Explore the architectural war of Web3. Compare modular blockchains (Celestia, Ethereum L2s) with monolithic systems (Solana) regarding scale, security, and cost.",
