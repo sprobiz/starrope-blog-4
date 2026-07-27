@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "uniswap-v4-hooks-amm-architecture-2026.html",
+      "title": "Uniswap v4 Hooks & Next-Gen AMM Architecture in 2026: Custom Liquidity Pools, Dynamic Fees, and MEV Protection",
+      "description": "Explore the revolution of Uniswap v4 Hooks and decentralized exchange architectures in 2026. Learn how custom pool logic, dynamic fee tiers, and MEV protection redefine automated market making.",
+      "image_url": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "tag": "Cryptocurrency",
+      "date_display": "Jul 28, 2026",
+      "publish_date": "2026-07-28",
+      "publish_time": "08:00"
+    },
+    {
       "filename": "defi-perpetual-dex-hyperliquid-dydx-2026.html",
       "title": "DeFi Derivatives & Perpetual DEX Architecture in 2026: Hyperliquid, dYdX v4, and Institutional Liquidity Protocols",
       "description": "Explore the evolution of perpetual decentralized exchanges in 2026. Compare Hyperliquid, dYdX v4, and L1 app-chains, analyzing orderbook performance, institutional liquidity, funding rates, and risk management.",

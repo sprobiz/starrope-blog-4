@@ -43,9 +43,12 @@ function isAlreadyPublished(filename, indexContent) {
   return gridContent.includes(`posts/${filename}`);
 }
 
+const nowKST = new Date(new Date().getTime() + (9 * 60 * 60 * 1000));
+const todayKST = nowKST.toISOString().split('T')[0];
+
 let publishedCount = 0;
 for (const post of schedule.posts) {
-  if (post.publish_date <= '2026-07-26' && !isAlreadyPublished(post.filename, indexContent)) {
+  if (post.publish_date <= todayKST && !isAlreadyPublished(post.filename, indexContent)) {
     console.log(`Publishing: ${post.filename} (${post.publish_date} ${post.publish_time})`);
     const cardHtml = generateCardHtml(post);
     indexContent = indexContent.replace('<!-- SCHEDULED_POSTS_START -->', '<!-- SCHEDULED_POSTS_START -->\n' + cardHtml);
