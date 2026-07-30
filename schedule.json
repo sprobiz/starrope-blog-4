@@ -1,6 +1,36 @@
 {
   "posts": [
     {
+      "filename": "ai-driven-algorithmic-trading-autonomous-execution-2026.html",
+      "title": "AI-Driven Algorithmic Trading & Autonomous Execution in 2026: Multi-Agent Systems, High-Frequency Strategies, and Risk Controls",
+      "description": "Discover how multi-agent AI systems, real-time reinforcement learning, and smart order routing are revolutionizing institutional quantitative trading and retail algorithmic strategies in 2026.",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "tag": "Quantitative Investing",
+      "date_display": "Jul 30, 2026",
+      "publish_date": "2026-07-30",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "zk-rollups-vs-optimistic-rollups-zkevm-2026.html",
+      "title": "Zero-Knowledge Rollups vs. Optimistic Rollups in 2026: zkEVM Maturity, Proof Costs, and Ethereum L2 Dominance",
+      "description": "An in-depth 2026 technical and financial analysis comparing ZK-Rollups (Starknet, zkSync, Linea) and Optimistic Rollups (Arbitrum, Base, OP Mainnet). Explore proof generation economics and throughput.",
+      "image_url": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "tag": "Cryptocurrency",
+      "date_display": "Jul 30, 2026",
+      "publish_date": "2026-07-30",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "payfi-stablecoin-cross-border-settlements-2026.html",
+      "title": "PayFi & Cross-Border Stablecoin Settlements in 2026: Replacing SWIFT with Real-Time Corporate Liquidity",
+      "description": "Explore the rise of Payment Finance (PayFi) in 2026. Learn how stablecoin infrastructure, automated FX settlement, and yield-bearing corporate treasuries are replacing legacy banking rails.",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
+      "tag": "Fintech",
+      "date_display": "Jul 30, 2026",
+      "publish_date": "2026-07-30",
+      "publish_time": "08:00"
+    },
+    {
       "filename": "uniswap-v4-hooks-amm-architecture-2026.html",
       "title": "Uniswap v4 Hooks & Next-Gen AMM Architecture in 2026: Custom Liquidity Pools, Dynamic Fees, and MEV Protection",
       "description": "Explore the revolution of Uniswap v4 Hooks and decentralized exchange architectures in 2026. Learn how custom pool logic, dynamic fee tiers, and MEV protection redefine automated market making.",
