@@ -534,4 +534,40 @@
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
+  <url>
+    <loc>https://blog4.starrope2023.com/posts/agentic-ai-finance-decentralized-autonomous-hedge-funds-2026.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://blog4.starrope2023.com/posts/rwa-tokenization-institutional-liquidity-treasury-bills-2026.html</loc>
+    <lastmod>2026-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://blog4.starrope2023.com/posts/cross-chain-intent-engines-solver-networks-2026.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://blog4.starrope2023.com/posts/autonomous-ai-agents-zkml-onchain-wallets-2026.html</loc>
+    <lastmod>2026-08-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://blog4.starrope2023.com/posts/defi-credit-risk-scoring-zk-underwriting-2026.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://blog4.starrope2023.com/posts/ai-driven-dynamic-liquidity-pools-lvr-mitigation-2026.html</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>

@@ -1,6 +1,66 @@
 {
   "posts": [
     {
+      "filename": "ai-driven-dynamic-liquidity-pools-lvr-mitigation-2026.html",
+      "title": "AI-Driven Dynamic Liquidity Pools & LVR Mitigation in 2026: Next-Gen AMMs, Algorithmic Pool Rebalancing, and Institutional Yield Infrastructure",
+      "description": "Discover how AI-driven predictive liquidity management, dynamic automated market maker (AMM) algorithms, and Loss-Versus-Rebalancing (LVR) mitigation frameworks are transforming decentralized liquidity provision and institutional yield generation in 2026.",
+      "image_url": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "tag": "DeFi & Quantitative Finance",
+      "date_display": "Aug 14, 2026",
+      "publish_date": "2026-08-14",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "defi-credit-risk-scoring-zk-underwriting-2026.html",
+      "title": "DeFi Credit Risk Scoring & Algorithmic Underwriting in 2026: Zero-Knowledge Credit Proofs, On-Chain Identity, and Institutional Uncollateralized Lending",
+      "description": "Explore how Zero-Knowledge credit proofs, machine learning underwriting engines, and decentralized identity (DID) infrastructure are enabling institutional uncollateralized lending and real-time credit scoring in Web3 during 2026.",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
+      "tag": "Fintech & DeFi",
+      "date_display": "Aug 13, 2026",
+      "publish_date": "2026-08-13",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "autonomous-ai-agents-zkml-onchain-wallets-2026.html",
+      "title": "Autonomous AI Agents in Web3 Finance 2026: zkML Proofs, On-Chain Agent Wallets, and Programmable Micro-Settlements",
+      "description": "Explore how autonomous AI agents operating with Zero-Knowledge Machine Learning (zkML) proofs and dedicated on-chain smart wallets are revolutionizing decentralized financial infrastructure, automated arbitrage, and micro-settlements in 2026.",
+      "image_url": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "tag": "Web3 & AI",
+      "date_display": "Aug 12, 2026",
+      "publish_date": "2026-08-12",
+      "publish_time": "22:30"
+    },
+    {
+      "filename": "cross-chain-intent-engines-solver-networks-2026.html",
+      "title": "Cross-Chain Intent Engines & Solver Infrastructure in 2026: AI-Driven Execution, Abstracted Liquidity, and Zero-Slippage DEX Trading",
+      "description": "Discover how cross-chain intent engines and AI solver networks are revolutionizing Web3 liquidity in 2026. Learn how chain abstraction, batch auctions, and Dutch mechanisms eliminate slippage, MEV exploitation, and multi-chain bridging friction.",
+      "image_url": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&w=800&q=80",
+      "tag": "DeFi & Web3",
+      "date_display": "Aug 10, 2026",
+      "publish_date": "2026-08-10",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "rwa-tokenization-institutional-liquidity-treasury-bills-2026.html",
+      "title": "Tokenized Real-World Assets (RWA) & On-Chain Institutional Liquidity in 2026: Treasury Bills, Private Credit, and Automated Corporate Treasuries",
+      "description": "Explore the explosive growth of Tokenized Real-World Assets (RWA) in 2026. Discover how tokenized U.S. Treasury bills, private credit, and institutional DeFi protocols are revolutionizing corporate treasury management and global yield generation.",
+      "image_url": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=800&q=80",
+      "tag": "Fintech & RWA",
+      "date_display": "Aug 7, 2026",
+      "publish_date": "2026-08-07",
+      "publish_time": "08:00"
+    },
+    {
+      "filename": "agentic-ai-finance-decentralized-autonomous-hedge-funds-2026.html",
+      "title": "Agentic AI Finance & Autonomous Hedge Funds in 2026: Multi-Agent Trading, On-Chain Risk Engines, and Yield Optimization",
+      "description": "Discover how autonomous multi-agent AI systems, decentralized liquidity protocols, and real-time on-chain risk engines are revolutionizing quantitative finance and automated portfolio management in 2026.",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "tag": "Quantitative Finance",
+      "date_display": "Aug 5, 2026",
+      "publish_date": "2026-08-05",
+      "publish_time": "08:00"
+    },
+    {
       "filename": "ai-driven-algorithmic-trading-autonomous-execution-2026.html",
       "title": "AI-Driven Algorithmic Trading & Autonomous Execution in 2026: Multi-Agent Systems, High-Frequency Strategies, and Risk Controls",
       "description": "Discover how multi-agent AI systems, real-time reinforcement learning, and smart order routing are revolutionizing institutional quantitative trading and retail algorithmic strategies in 2026.",
