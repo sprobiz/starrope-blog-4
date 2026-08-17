@@ -1,6 +1,16 @@
 {
   "posts": [
     {
+      "filename": "ai-hft-arbitrage-cross-dex-colocation-2026.html",
+      "title": "AI-Powered High-Frequency Arbitrage & Cross-DEX Co-Location in 2026: Sub-Millisecond MEV Offsetting, Latency Optimization, and Quant Execution Infrastructure",
+      "description": "Explore how AI-powered high-frequency trading (HFT), decentralized co-location networks, sub-millisecond solver execution, and MEV offsetting mechanisms are revolutionizing arbitrage profitability across decentralized exchanges in 2026.",
+      "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=800&q=80",
+      "tag": "Quantitative Trading & Web3",
+      "date_display": "Aug 17, 2026",
+      "publish_date": "2026-08-17",
+      "publish_time": "08:00"
+    },
+    {
       "filename": "ai-driven-dynamic-liquidity-pools-lvr-mitigation-2026.html",
       "title": "AI-Driven Dynamic Liquidity Pools & LVR Mitigation in 2026: Next-Gen AMMs, Algorithmic Pool Rebalancing, and Institutional Yield Infrastructure",
       "description": "Discover how AI-driven predictive liquidity management, dynamic automated market maker (AMM) algorithms, and Loss-Versus-Rebalancing (LVR) mitigation frameworks are transforming decentralized liquidity provision and institutional yield generation in 2026.",
